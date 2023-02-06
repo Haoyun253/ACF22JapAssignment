@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"picross","l":"data"},{"p":"picross","l":"Windows"}];updateSearchResults();
